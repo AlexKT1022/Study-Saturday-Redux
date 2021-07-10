@@ -1,6 +1,7 @@
 # Study Saturdays: Week 3 - React-Redux
 
 ## **Objective:** Build an app to display students and their test scores
+
 - [ ] **Cycle 0:** Build the store
 - [ ] **Cycle 1:** `connect` the React component
 - [ ] **Cycle 2:** Set up React Router for a "single student" view

@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 const avgGrade = (tests) => {
   return Math.round(
@@ -48,6 +48,6 @@ class SingleStudent extends React.Component {
       </div>
     );
   }
-};
+}
 
 export default SingleStudent;
